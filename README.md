@@ -8,7 +8,7 @@
 Use [git](https://git-scm.com/) to clone the project.
 
 ```bash
-git clone https://github.com/sajid4coding/Landing-Page-Vue3.git
+git clone https://github.com/sajid4coding/vue-Nuxt-js-Portfolio
 ```
 Enter the project.
 ```bash
